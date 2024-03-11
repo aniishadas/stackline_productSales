@@ -17,7 +17,7 @@ To run this project, you need to install the following dependencies:
 
 1. Clone the repository from GitHub
 2. Navigate to the project directory:
-```cd stackline_productSales/src
+```cd stackline_productSales/src```
 3. Install project dependencies
 4. Run the React server
 ```npm start```
