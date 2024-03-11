@@ -6,20 +6,20 @@ The website has been hosted on <https://aniishadas.github.io/stackline_productSa
 ## Dependencies
 
 To run this project, you need to install the following dependencies:
-- `react-redux`: This package is used to integrate Redux with React for managing application state.
+- <b>react-redux</b>: This package is used to integrate Redux with React for managing application state. <br>
 ```npm install react-redux```
-- `recharts`: This package is used for rendering interactive charts in React applications.
+- <b>recharts</b>: This package is used for rendering interactive charts in React applications.<br>
 ```npm install recharts```
-- `@reduxjs/toolkit`: This package provides utilities for simplifying Redux setup and reducing boilerplate code.
+- <b>@reduxjs/toolkit</b>: This package provides utilities for simplifying Redux setup and reducing boilerplate code.<br>
 ```npm install @reduxjs/toolkit```
 
 ## Installation
 
 1. Clone the repository from GitHub
-2. Navigate to the project directory:
+2. Navigate to the project directory:<br>
 ```cd stackline_productSales/src```
 3. Install project dependencies
-4. Run the React server
+4. Run the React server<br>
 ```npm start```
 
 
